@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/yasbonilha/20232-front-javascript-apostila09#readme",
   "dependencies": {
-    "axios": "^1.5.1"
+    "axios": "^1.5.1",
+    "dotenv": "^16.3.1"
   }
 }

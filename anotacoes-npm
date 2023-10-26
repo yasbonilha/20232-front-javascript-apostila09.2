@@ -1,0 +1,2 @@
+- o npm vai criar o package json para gerenciar as suas dependencias
+- ele cri uma pasta com os modulos do node que são muito extensos, por isso criamos um arquivo chamado .gitignore e vamos colocar o nome do node_modules para o git ignorar ele para fazer o controle de versão - por ser muito pesado

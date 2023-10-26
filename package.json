@@ -1,0 +1,23 @@
+{
+  "name": "20232-front-javascript-apostila09",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/yasbonilha/20232-front-javascript-apostila09.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yasbonilha/20232-front-javascript-apostila09/issues"
+  },
+  "homepage": "https://github.com/yasbonilha/20232-front-javascript-apostila09#readme",
+  "dependencies": {
+    "axios": "^1.5.1"
+  }
+}

@@ -56,3 +56,7 @@ minhaPromise.then((res) => {
         console.log("descrição de cada previsão " + res[item]['weather'][0]['description'])
     }
 })
+// como não retornamos nada, se fizéssemos mais uma função then, ele receberia undefined como argumento. 
+// os res são o que são passados como argumento para o then e o catch - mas pera, eu posso mudar o nome do res que passa como argumento sem mudar o nome do res que está sendo retornado?
+
+// async / await - se assemelha com o processamento sequencial, mas por debaixo dos panos é assíncrono. é a forma mais moderna de manipular promisses
